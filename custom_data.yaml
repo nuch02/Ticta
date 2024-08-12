@@ -1,0 +1,23 @@
+
+train: /Users/anujch/Downloads/Final/train
+val: /Users/anujch/Downloads/Final/valid 
+test: /Users/anujch/Downloads/Final/test 
+
+# Classes
+names:
+  0: Electric pole
+  1: Person
+  2: PotholeDetectionYOLOv8 Project - v1 2024-04-09 1-16pm
+  3: Traffic signs
+  4: Tree
+  5: Zebra crossing
+  6: car
+  7: downstairs
+  8: grade separation
+  9: sidewalk
+  10: sign_green
+  11: sign_red
+  12: upstairs
+  
+# Download script/URL (optional)
+download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco128.zip
